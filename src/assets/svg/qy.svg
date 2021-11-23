@@ -1,0 +1,66 @@
+<svg id="qiye_" data-name="qiye " xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69" height="87" viewBox="0 0 69 87">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5a202;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #020304;
+        filter: url(#filter-2);
+      }
+
+      .cls-3 {
+        fill: #474b50;
+        filter: url(#filter-3);
+      }
+    </style>
+    <filter id="filter" x="1979" y="2063" width="69" height="87" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="2.333" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#fbcc00" flood-opacity="0.35"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" mode="screen" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="1992.44" y="2076.16" width="40.9" height="40.84" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="1" in="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood result="flood" flood-color="#fff" flood-opacity="0.5"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+      <feImage preserveAspectRatio="none" x="1992.44" y="2076.16" width="40.9" height="39.56" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNDAuOSIgaGVpZ2h0PSIzOS41NiIgdmlld0JveD0iMCAwIDQwLjkgMzkuNTYiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iMjAuNDUiIHkxPSIzOS41NiIgeDI9IjIwLjQ1IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzgyODI4MiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwLjkiIGhlaWdodD0iMzkuNTYiLz4KPC9zdmc+Cg=="/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" mode="softLight" in2="blend"/>
+      <feGaussianBlur result="blur-2" stdDeviation="1.414" in="SourceAlpha"/>
+      <feFlood result="flood-2" flood-opacity="0.88"/>
+      <feComposite result="composite-3" operator="out" in2="blur-2"/>
+      <feOffset result="offset-2"/>
+      <feComposite result="composite-4" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-3" mode="softLight" in2="blend-2"/>
+    </filter>
+    <filter id="filter-3" x="1996" y="2078" width="36" height="40" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="2.333" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#ffd201" flood-opacity="0.35"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" mode="screen" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+      <feFlood result="flood-2" flood-color="#f5a202"/>
+      <feComposite result="composite-5" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-3" in2="blend-2"/>
+    </filter>
+  </defs>
+  <path id="Pin" class="cls-1" d="M2012.88,2069.57c15.06,0,27.28,11.81,27.28,26.38,0,19.92-16.63,19.78-27.28,46.15-10.67-26.65-27.27-27.84-27.27-46.15C1985.61,2081.38,1997.82,2069.57,2012.88,2069.57Z" transform="translate(-1979 -2063)"/>
+  <path id="Center" class="cls-2" d="M2012.88,2076.16c11.3,0,20.46,8.86,20.46,19.79s-9.16,19.78-20.46,19.78-20.46-8.86-20.46-19.78S2001.58,2076.16,2012.88,2076.16Z" transform="translate(-1979 -2063)"/>
+  <path id="形状_786" data-name="形状 786" class="cls-3" d="M2025,2088.42c0-.98,0-1.96-0.05-2.85a12.679,12.679,0,0,1-2.87.49c-3.73.24-6.29-1.02-8.65-2.06a15.358,15.358,0,0,1-11.39,1.57v9.94c0,1.12-.09,2.24,0,3.32,0.29,3.4,2.37,5.91,4.45,7.77a28.2,28.2,0,0,0,7.06,4.4,32.86,32.86,0,0,0,4.22-2.35,33.953,33.953,0,0,0,3.33-2.68,11.7,11.7,0,0,0,3.85-6.35c0.02-.21.04-0.42,0.04-0.64Zm-4.87,15.09h-13.98v-1.48h2v-6.2h1.5v6.2h2.78v-9.17h1.61v3.8h4.6v1.44h-4.6v3.93h6.1Zm-0.21-8.13a19.973,19.973,0,0,1-6.81-5.1,20.331,20.331,0,0,1-6.7,5.08,6.881,6.881,0,0,0-1.06-1.4,16.858,16.858,0,0,0,7.6-6.06l1.39,0.69c-0.11.19-.24,0.37-0.37,0.56a17.519,17.519,0,0,0,6.94,4.8,3.919,3.919,0,0,0-.99,1.42v0.01Zm0,0" transform="translate(-1979 -2063)"/>
+</svg>

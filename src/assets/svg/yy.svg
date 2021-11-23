@@ -1,0 +1,66 @@
+<svg id="医院" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69" height="87" viewBox="0 0 69 87">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5a202;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #020304;
+        filter: url(#filter-2);
+      }
+
+      .cls-3 {
+        fill: #474b50;
+        filter: url(#filter-3);
+      }
+    </style>
+    <filter id="filter" x="1979" y="2063" width="69" height="87" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="2.333" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#fbcc00" flood-opacity="0.35"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" mode="screen" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="1992.44" y="2076.16" width="40.9" height="40.84" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="1" in="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood result="flood" flood-color="#fff" flood-opacity="0.5"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+      <feImage preserveAspectRatio="none" x="1992.44" y="2076.16" width="40.9" height="39.56" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNDAuOSIgaGVpZ2h0PSIzOS41NiIgdmlld0JveD0iMCAwIDQwLjkgMzkuNTYiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iMjAuNDUiIHkxPSIzOS41NiIgeDI9IjIwLjQ1IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzgyODI4MiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjQwLjkiIGhlaWdodD0iMzkuNTYiLz4KPC9zdmc+Cg=="/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" mode="softLight" in2="blend"/>
+      <feGaussianBlur result="blur-2" stdDeviation="1.414" in="SourceAlpha"/>
+      <feFlood result="flood-2" flood-opacity="0.88"/>
+      <feComposite result="composite-3" operator="out" in2="blur-2"/>
+      <feOffset result="offset-2"/>
+      <feComposite result="composite-4" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-3" mode="softLight" in2="blend-2"/>
+    </filter>
+    <filter id="filter-3" x="1993" y="2076" width="42" height="42" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="2.333" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#ffd201" flood-opacity="0.35"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" mode="screen" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+      <feFlood result="flood-2" flood-color="#f5a202"/>
+      <feComposite result="composite-5" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-3" in2="blend-2"/>
+    </filter>
+  </defs>
+  <path id="Pin" class="cls-1" d="M2012.88,2069.57c15.06,0,27.28,11.81,27.28,26.38,0,19.92-16.63,19.78-27.28,46.15-10.67-26.65-27.27-27.84-27.27-46.15C1985.61,2081.38,1997.82,2069.57,2012.88,2069.57Z" transform="translate(-1979 -2063)"/>
+  <path id="Center" class="cls-2" d="M2012.88,2076.16c11.3,0,20.46,8.86,20.46,19.79s-9.16,19.78-20.46,19.78-20.46-8.86-20.46-19.78S2001.58,2076.16,2012.88,2076.16Z" transform="translate(-1979 -2063)"/>
+  <path id="形状_784" data-name="形状 784" class="cls-3" d="M2003.81,2089.66l-4.81,4.81a2.316,2.316,0,0,1,0,4.07l4.81,4.8a1.376,1.376,0,0,0,1.95,0l4.5-4.5h-4.93a0.555,0.555,0,0,1-.55-0.55v-3.56a0.555,0.555,0,0,1,.55-0.55h4.95l-4.52-4.52a1.376,1.376,0,0,0-1.95,0m2.86,16.53,4.8,4.81a2.316,2.316,0,0,1,4.07,0l4.81-4.81a1.376,1.376,0,0,0,0-1.95l-4.51-4.5v4.94a0.555,0.555,0,0,1-.55.55h-3.57a0.555,0.555,0,0,1-.55-0.55v-4.94l-4.5,4.49a1.388,1.388,0,0,0,0,1.96m16.52-2.85,4.81-4.81a2.3,2.3,0,0,1-1.21-2.03,2.344,2.344,0,0,1,1.21-2.04l-4.81-4.8a1.376,1.376,0,0,0-1.95,0l-4.5,4.5h4.94a0.564,0.564,0,0,1,.55.56v3.54a0.564,0.564,0,0,1-.55.56h-4.94l4.5,4.5a1.359,1.359,0,0,0,1.95.02m-2.86-16.53-4.8-4.81a2.316,2.316,0,0,1-4.07,0l-4.79,4.81a1.376,1.376,0,0,0,0,1.95l4.5,4.5v-4.91a0.555,0.555,0,0,1,.55-0.55h3.55a0.557,0.557,0,0,1,.56.55v4.94l4.5-4.52a1.388,1.388,0,0,0,0-1.96" transform="translate(-1979 -2063)"/>
+</svg>
